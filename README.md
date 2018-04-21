@@ -5,7 +5,7 @@
   ## dynamic
   ## control on users input
   
-  ## comment if doubt found
+  ## comment if bug found
   ##
   
   ## Thank you 
