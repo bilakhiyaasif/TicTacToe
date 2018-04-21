@@ -48,8 +48,7 @@ public class TCP_Client {
             }
             
            
-             //dos.close();
-             // dis.close();
+             
                 s.close();
             
             
